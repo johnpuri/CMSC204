@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"application","l":"PasswordCheckerSTUDENT_Test"},{"p":"application","l":"PasswordCheckerTest"},{"p":"application","l":"PasswordCheckerUtility"}];updateSearchResults();
